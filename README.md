@@ -16,5 +16,5 @@ Foo1 -> Foo6 : To collections2222
 @enduml
 ```
 
-![](./sample-uml.svg)
+![](./generated/sample-uml.svg)
 
